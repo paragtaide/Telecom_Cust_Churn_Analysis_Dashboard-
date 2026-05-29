@@ -1,3 +1,4 @@
+<img width="1575" height="872" alt="image" src="https://github.com/user-attachments/assets/2a3dcfef-f1c6-4b87-bd5d-ff1e0d75a365" />
 # 📊 Telecom Customer Churn Analysis Dashboard
 
 ## 📌 Project Overview
